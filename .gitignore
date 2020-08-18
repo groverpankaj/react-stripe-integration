@@ -1,0 +1,16 @@
+*.log
+
+.DS_Store
+.env
+
+node_modules
+
+sass_modules
+
+server-build
+
+database/index.js
+
+client/dist/bundle.js
+
+client/dist/bundle.js.gz
